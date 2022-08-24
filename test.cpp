@@ -2,7 +2,10 @@
 using namespace std;
 
 int main(){
-    vector<int> s = {1};
-    cout << s.size();
+    int b = 0;
+    for(){
+        cout << b;
+        b = b+=1;
+    }
 
 }

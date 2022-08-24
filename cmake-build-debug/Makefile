@@ -128,29 +128,29 @@ untitled1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/build
 .PHONY : untitled1/fast
 
-plansza.obj: plansza.cpp.obj
-.PHONY : plansza.obj
+dijkstry.obj: dijkstry.cpp.obj
+.PHONY : dijkstry.obj
 
 # target to build an object file
-plansza.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/plansza.cpp.obj
-.PHONY : plansza.cpp.obj
+dijkstry.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/dijkstry.cpp.obj
+.PHONY : dijkstry.cpp.obj
 
-plansza.i: plansza.cpp.i
-.PHONY : plansza.i
+dijkstry.i: dijkstry.cpp.i
+.PHONY : dijkstry.i
 
 # target to preprocess a source file
-plansza.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/plansza.cpp.i
-.PHONY : plansza.cpp.i
+dijkstry.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/dijkstry.cpp.i
+.PHONY : dijkstry.cpp.i
 
-plansza.s: plansza.cpp.s
-.PHONY : plansza.s
+dijkstry.s: dijkstry.cpp.s
+.PHONY : dijkstry.s
 
 # target to generate assembly for a file
-plansza.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/plansza.cpp.s
-.PHONY : plansza.cpp.s
+dijkstry.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/dijkstry.cpp.s
+.PHONY : dijkstry.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled1
-	@echo ... plansza.obj
-	@echo ... plansza.i
-	@echo ... plansza.s
+	@echo ... dijkstry.obj
+	@echo ... dijkstry.i
+	@echo ... dijkstry.s
 .PHONY : help
 
 

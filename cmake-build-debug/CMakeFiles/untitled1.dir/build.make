@@ -68,28 +68,28 @@ include CMakeFiles/untitled1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled1.dir/flags.make
 
-CMakeFiles/untitled1.dir/plansza.cpp.obj: CMakeFiles/untitled1.dir/flags.make
-CMakeFiles/untitled1.dir/plansza.cpp.obj: ../plansza.cpp
-CMakeFiles/untitled1.dir/plansza.cpp.obj: CMakeFiles/untitled1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dziob\Music\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/plansza.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/plansza.cpp.obj -MF CMakeFiles\untitled1.dir\plansza.cpp.obj.d -o CMakeFiles\untitled1.dir\plansza.cpp.obj -c C:\Users\dziob\Music\untitled1\plansza.cpp
+CMakeFiles/untitled1.dir/dijkstry.cpp.obj: CMakeFiles/untitled1.dir/flags.make
+CMakeFiles/untitled1.dir/dijkstry.cpp.obj: ../dijkstry.cpp
+CMakeFiles/untitled1.dir/dijkstry.cpp.obj: CMakeFiles/untitled1.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dziob\Music\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/dijkstry.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/dijkstry.cpp.obj -MF CMakeFiles\untitled1.dir\dijkstry.cpp.obj.d -o CMakeFiles\untitled1.dir\dijkstry.cpp.obj -c C:\Users\dziob\Music\untitled1\dijkstry.cpp
 
-CMakeFiles/untitled1.dir/plansza.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/plansza.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\dziob\Music\untitled1\plansza.cpp > CMakeFiles\untitled1.dir\plansza.cpp.i
+CMakeFiles/untitled1.dir/dijkstry.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/dijkstry.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\dziob\Music\untitled1\dijkstry.cpp > CMakeFiles\untitled1.dir\dijkstry.cpp.i
 
-CMakeFiles/untitled1.dir/plansza.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/plansza.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dziob\Music\untitled1\plansza.cpp -o CMakeFiles\untitled1.dir\plansza.cpp.s
+CMakeFiles/untitled1.dir/dijkstry.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/dijkstry.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dziob\Music\untitled1\dijkstry.cpp -o CMakeFiles\untitled1.dir\dijkstry.cpp.s
 
 # Object files for target untitled1
 untitled1_OBJECTS = \
-"CMakeFiles/untitled1.dir/plansza.cpp.obj"
+"CMakeFiles/untitled1.dir/dijkstry.cpp.obj"
 
 # External object files for target untitled1
 untitled1_EXTERNAL_OBJECTS =
 
-untitled1.exe: CMakeFiles/untitled1.dir/plansza.cpp.obj
+untitled1.exe: CMakeFiles/untitled1.dir/dijkstry.cpp.obj
 untitled1.exe: CMakeFiles/untitled1.dir/build.make
 untitled1.exe: CMakeFiles/untitled1.dir/linklibs.rsp
 untitled1.exe: CMakeFiles/untitled1.dir/objects1.rsp

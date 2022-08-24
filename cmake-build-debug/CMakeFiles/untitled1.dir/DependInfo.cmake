@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/dziob/Music/untitled1/plansza.cpp" "CMakeFiles/untitled1.dir/plansza.cpp.obj" "gcc" "CMakeFiles/untitled1.dir/plansza.cpp.obj.d"
+  "C:/Users/dziob/Music/untitled1/dijkstry.cpp" "CMakeFiles/untitled1.dir/dijkstry.cpp.obj" "gcc" "CMakeFiles/untitled1.dir/dijkstry.cpp.obj.d"
   )
 
 # Targets to which this target links.

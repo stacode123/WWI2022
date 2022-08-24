@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled1.dir/plansza.cpp.obj"
-  "CMakeFiles/untitled1.dir/plansza.cpp.obj.d"
+  "CMakeFiles/untitled1.dir/dijkstry.cpp.obj"
+  "CMakeFiles/untitled1.dir/dijkstry.cpp.obj.d"
   "libuntitled1.dll.a"
   "untitled1.exe"
   "untitled1.exe.manifest"
